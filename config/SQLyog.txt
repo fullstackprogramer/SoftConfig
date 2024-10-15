@@ -1,0 +1,4 @@
+127.0.0.1       webyog.com
+127.0.0.1       www.webyog.com
+127.0.0.1       stats.webyog.com
+127.0.0.1       store.webyog.com
