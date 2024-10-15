@@ -1,0 +1,17 @@
+# Only update detection is blocked, account login and synchronization can be used normally
+# 仅屏蔽更新检测,账号登录和同步可正常使用
+
+127.0.0.1    dl.pstmn.io
+127.0.0.1    onboarding.postman.com
+127.0.0.1    analytics.getpostman.com
+127.0.0.1    assets.getpostman.com
+127.0.0.1    static.getpostman.com
+127.0.0.1    skills.gw.postman.com
+127.0.0.1    skills-assets.pstmn.io
+127.0.0.1    skills.getpostman.com
+127.0.0.1    config.getpostman.com
+127.0.0.1    cdn.postman.com
+127.0.0.1    getpostman.com
+127.0.0.1    www.postman.com
+#127.0.0.1    identity.getpostman.com
+#127.0.0.1    sync-v3.getpostman.com
