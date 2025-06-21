@@ -1,5 +1,6 @@
 # Only update detection is blocked, account login and synchronization can be used normally
 # 仅屏蔽更新检测,账号登录和同步可正常使用
+# 在7.x系列最终版本7.36.7测试无问题
 
 127.0.0.1    dl.pstmn.io
 127.0.0.1    onboarding.postman.com
