@@ -1,0 +1,32 @@
+! ublock origin 自定义静态规则(净化网站)
+
+! 百度网盘网页版净化
+! 2024年10月14日更新
+pan.baidu.com##.app-icon.app-feedback.icon-feedback.icon
+pan.baidu.com##.app-user-vip-center
+pan.baidu.com##.web-header-nav-new-version
+pan.baidu.com##.DIcOFyb > .vipicon-history-2-1.JS-user-level
+pan.baidu.com##.app-download
+pan.baidu.com##[href^="//aiconvert.baidu.com/simple/convert"]
+pan.baidu.com##span.cMEMEF > [href="//pan.baidu.com/disk/discovery"]
+pan.baidu.com##.find-arrow-icon
+pan.baidu.com##.JS-nativeupload-tip.mzgNqy.global-clearfix
+
+! BiliBili网页版净化
+! 2024年10月15日更新
+bilibili.com##.adblock-tips
+bilibili.com##.download-client-trigger.download-entry
+bilibili.com##li.v-popover-wrap:nth-of-type(9)
+bilibili.com##li.right-entry-item:nth-of-type(6)
+bilibili.com##.right-entry-item--upload.right-entry-item
+bilibili.com##.vip-wrap
+bilibili.com##.default-entry
+bilibili.com##.mini-header__title
+bilibili.com##.left-loc-entry.v-popover-wrap
+bilibili.com##.header-upload-entry__icon > path
+bilibili.com##.channel-items__right
+bilibili.com##.desktop-download-tip
+bilibili.com##div.feed-card:nth-of-type(even)
+bilibili.com##div.feed-card:nth-of-type(odd)
+bilibili.com##div.is-rcmd.bili-video-card:nth-of-type(even)
+bilibili.com##div.is-rcmd.bili-video-card:nth-of-type(odd)
